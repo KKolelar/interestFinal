@@ -1,0 +1,5 @@
+17:36:34.394 [main] INFO  com.interestAroundYear.stepDefinitions.interestAroundYear_EndToEnd - Loan interest value entered in loan tenure calculator
+17:36:34.658 [main] INFO  com.interestAroundYear.stepDefinitions.interestAroundYear_EndToEnd - Fees and Charges text box in loan tenure calculator verified
+17:36:35.528 [main] INFO  com.interestAroundYear.stepDefinitions.interestAroundYear_EndToEnd - Loan tenure calculator fees and charges slider verified
+17:36:35.847 [main] INFO  com.interestAroundYear.stepDefinitions.interestAroundYear_EndToEnd - Loan Fees and Charges value entered in loan tenure calculator
+17:36:36.006 [main] INFO  com.interestAroundYear.stepDefinitions.interestAroundYear_EndToEnd - **** End of End to End
